@@ -5,20 +5,21 @@
     width: 90%;
     background-color: bisque;
     align-items: center;
+    
 
 
 }
 .h1{
     margin-left: 30px;
+    margin-right: 20%;
 }
 .p1{
     margin-left: 30px;
+    margin-right: 20%; 
 }
 
 .photo1{    
 
-    padding-right: 30px;
-    margin-left: 30%;
-    width: 70%;
+    width: 100%;
         
 }
