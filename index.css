@@ -1,0 +1,24 @@
+
+.header{
+    display: flex;
+    margin-left: 5%;
+    width: 90%;
+    background-color: bisque;
+    align-items: center;
+
+
+}
+.h1{
+    margin-left: 30px;
+}
+.p1{
+    margin-left: 30px;
+}
+
+.photo1{    
+
+    padding-right: 30px;
+    margin-left: 30%;
+    width: 70%;
+        
+}
