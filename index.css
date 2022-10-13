@@ -8,7 +8,7 @@
         min-height: 1px;
         width: 90%;
         margin-left: 5%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .IntroducingMe{
         font-family: 'Comforter Brush', cursive;
@@ -47,7 +47,7 @@
         min-height: 1px;
         width: 90%;
         margin-left: 5%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .log-message{
         font-family: 'Comforter Brush', cursive;
@@ -66,7 +66,7 @@
         min-height: 1px;
         width: 90%;
         margin-left: 5%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .IntroducingMe{
         font-family: 'Comforter Brush', cursive;
@@ -105,7 +105,7 @@
         min-height: 1px;
         width: 90%;
         margin-left: 5%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .log-message{
         font-family: 'Comforter Brush', cursive;
@@ -124,7 +124,7 @@
         display: flex;
         min-height: 1px;
         width: 90%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .IntroducingMe{
         font-family: 'Comforter Brush', cursive;
@@ -162,7 +162,7 @@
     .log-wrapper{
         min-height: 1px;
         width: 90%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .log-message{
         font-family: 'Comforter Brush', cursive;
@@ -181,7 +181,7 @@
         display: flex;
         min-height: 1px;
         width: 90%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .IntroducingMe{
         margin-bottom: 0.2em;
@@ -189,7 +189,7 @@
         font-size: 5em;
         order: 1;
         min-height: 1px;
-        width: 50%;
+        width: 90%;
     }
     .Hello{
         margin-top: 0.2em;
@@ -222,7 +222,7 @@
     .log-wrapper{
         min-height: 1px;
         width: 90%;
-        background-color: bisque;
+        background: url(images/backgr.jpg);
     }
     .log-message{
         font-family: 'Comforter Brush', cursive;
