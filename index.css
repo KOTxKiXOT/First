@@ -1,25 +1,46 @@
 
 .header{
-    display:  flex;
+    padding-top: 30px;
+    height: 400px;
+    width: 100%;
+    background-color: rgb(216, 211, 211);
+}
+
+.header-wrapper{
+    display: flex;
     margin-left: 5%;
     width: 90%;
     height: 400;
     background-color: bisque;
     
-
-
 }
 .h1{
     margin-left: 30px;
     margin-right: 20%;
 }
-.p1{
+.i1{
     margin-left: 30px;
     margin-right: 20%; 
 }
 
-.photo1{    
-
+.photo1{   
+    float: right;
+    width: 60%;
+}
+.coding-log{
+    display:flexbox;
+    margin-top: 10px;
+    padding-top: 1px;
+    height: 70px;
     width: 100%;
-        
+    background-color: rgb(216, 211, 211);
+}
+
+.coding-log-wrapper{
+    display: block;
+    margin-left: 5%;
+    margin-top: 5px;
+    width: 90%;
+    height: 50;
+    background-color: bisque;
 }
