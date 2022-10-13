@@ -149,7 +149,7 @@
     }   
     .photo1{
         min-height: 1px;
-        wi: 100%;
+        width: 100%;
         right: 0;
         order: 3;
     }
