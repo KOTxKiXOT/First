@@ -131,25 +131,25 @@
         font-size: 2em;
         order: 1;
         min-height: 1px;
-        width: 50%;
+        width: 100%;
     }
     .Hello{
         font-family: 'Comforter Brush', cursive;
         font-size: 2em;
         order: 2;
         min-height: 1px;
-        width: 50%;
+        width: 100%;
     }
     .description{
         font-family: 'Comforter Brush', cursive;
         font-size: 2em;
         order: 2;
         min-height: 1px;
-        width: 50%;
+        width: 100%;
     }   
     .photo1{
         min-height: 1px;
-        width: 100%;
+        wi: 100%;
         right: 0;
         order: 3;
     }
