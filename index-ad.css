@@ -1,0 +1,201 @@
+
+@media (min-width: 320px){
+    .header{
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .header-wrapper{
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .IntroducingMe{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 1;
+        min-height: 1px;
+        width: 100%;
+    }
+    .Hello{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 100%;
+    }
+    .photo1{
+        min-height: 1px;
+        width: 100%;
+        order: 3;
+    }
+    .log{
+        margin-top: 10px;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .log-wrapper{
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .log-message{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        min-height: 1px;
+        width: 100%;
+    }  
+}
+@media (min-width: 1024px){
+    .header{
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .header-wrapper{
+        display: flex;
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .IntroducingMe{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 1;
+        min-height: 1px;
+        width: 50%;
+    }
+    .Hello{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 50%;
+    }
+    .photo1{
+        min-height: 1px;
+        width: 50%;
+        right: 0;
+        order: 3;
+    }
+    .log{
+        margin-top: 10px;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .log-wrapper{
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .log-message{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        min-height: 1px;
+        width: 100%;
+    }  
+}
+@media (min-width: 1440px){
+    .header{
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .header-wrapper{
+        display: flex;
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .IntroducingMe{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 1;
+        min-height: 1px;
+        width: 50%;
+    }
+    .Hello{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 50%;
+    }
+    .photo1{
+        min-height: 1px;
+        width: 50%;
+        right: 0;
+        order: 3;
+    }
+    .log{
+        margin-top: 10px;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .log-wrapper{
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .log-message{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        min-height: 1px;
+        width: 100%;
+    }  
+}
+
+    .header{
+        display: flex;
+        flex-wrap: wrap;
+        height: 400;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .header-wrapper{
+        display: flex;
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .IntroducingMe{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 1;
+        min-height: 1px;
+        width: 50%;
+    }
+    .Hello{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 50%;
+    }
+    .photo1{
+        min-height: 1px;
+        width: 50%;
+        right: 0;
+        order: 3;
+    }
+    .log{
+        margin-top: 10px;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .log-wrapper{
+        min-height: 1px;
+        width: 90%;
+        background-color: bisque;
+    }
+    .log-message{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        min-height: 1px;
+        width: 100%;
+    }  

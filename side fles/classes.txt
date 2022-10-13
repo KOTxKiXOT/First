@@ -1,0 +1,8 @@
+    .header{}
+    .header-wrapper{}
+    .IntroducingMe{}
+    .Hello{}
+    .photo1{}
+    .coding-log{}
+    .coding-log-wrapper{}
+    .log-message{}  
