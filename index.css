@@ -11,22 +11,28 @@
     display: flex;
     margin-left: 5%;
     width: 90%;
-    height: 400;
+    height: 90%;
     background-color: bisque;
     
 }
 .h1{
     margin-left: 30px;
     margin-right: 20%;
+    margin-bottom: 10px;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
 }
 .i1{
     margin-left: 30px;
     margin-right: 20%; 
+    margin-top: 10px;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 30px;
 }
 
 .photo1{   
     float: right;
-    width: 60%;
+    height: 100%;
 }
 .coding-log{
     display: block;
