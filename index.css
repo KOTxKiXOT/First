@@ -5,7 +5,8 @@
     .header{
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .header-wrapper{
         min-height: 1px;
@@ -14,21 +15,21 @@
         background: url(images/backgr.jpg);
     }
     .IntroducingMe{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 1;
         min-height: 1px;
         width: 100%;
     }
     .Hello{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
         width: 100%;
     }
     .description{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
@@ -44,7 +45,8 @@
         margin-top: 10px;
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .log-wrapper{
         min-height: 1px;
@@ -53,7 +55,7 @@
         background: url(images/backgr.jpg);
     }
     .log-message{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         min-height: 1px;
         width: 100%;
@@ -67,7 +69,8 @@
     .header{
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .header-wrapper{
         min-height: 1px;
@@ -76,21 +79,21 @@
         background: url(images/backgr.jpg);
     }
     .IntroducingMe{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 1;
         min-height: 1px;
         width: 100%;
     }
     .Hello{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
         width: 100%;
     }
     .description{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
@@ -106,7 +109,8 @@
         margin-top: 10px;
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .log-wrapper{
         min-height: 1px;
@@ -115,7 +119,7 @@
         background: url(images/backgr.jpg);
     }
     .log-message{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         min-height: 1px;
         width: 100%;
@@ -128,7 +132,8 @@
     .header{
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .header-wrapper{
         display: flex;
@@ -137,21 +142,21 @@
         background: url(images/backgr.jpg);
     }
     .IntroducingMe{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 1;
         min-height: 1px;
         width: 100%;
     }
     .Hello{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
         width: 100%;
     }
     .description{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         order: 2;
         min-height: 1px;
@@ -159,7 +164,7 @@
     }   
     .photo1{
         min-height: 1px;
-        width: 100%;
+        width: 50%;
         right: 0;
         order: 3;
     }
@@ -167,7 +172,8 @@
         margin-top: 10px;
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .log-wrapper{
         min-height: 1px;
@@ -175,7 +181,7 @@
         background: url(images/backgr.jpg);
     }
     .log-message{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         min-height: 1px;
         width: 100%;
@@ -188,7 +194,8 @@
     .header{
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .header-wrapper{
         display: flex;
@@ -198,7 +205,7 @@
     }
     .IntroducingMe{
         margin-bottom: 0.2em;
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 5em;
         order: 1;
         min-height: 1px;
@@ -206,23 +213,22 @@
     }
     .Hello{
         margin-top: 0.2em;
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 3em;
         order: 1;
         min-height: 1px;
-        width: 50%;
+        width: 90%;
     }
     .description{
-        margin-left: 4em;
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 3em;
         order: 2;
         min-height: 1px;
-        width: 50%;
+        width: 90%;
     }
     .photo1{
         min-height: 1px;
-        width: 100%;
+        width: 30%;
         right: 0;
         order: 3;
     }
@@ -230,7 +236,8 @@
         margin-top: 10px;
         min-height: 1px;
         width: 100%;
-        background-color: rgb(216, 211, 211);
+        background-color: rgb(79, 79, 79);
+        border-radius: 1em;
     }
     .log-wrapper{
         min-height: 1px;
@@ -238,7 +245,7 @@
         background: url(images/backgr.jpg);
     }
     .log-message{
-        font-family: 'Comforter Brush', cursive;
+        font-family: 'Teko', sans-serif;
         font-size: 2em;
         min-height: 1px;
         width: 100%;
