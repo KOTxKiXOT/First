@@ -1,4 +1,61 @@
-
+@media (min-width: 10px){
+    .header{
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .header-wrapper{
+        min-height: 1px;
+        width: 90%;
+        margin-left: 5%;
+        background-color: bisque;
+    }
+    .IntroducingMe{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 1;
+        min-height: 1px;
+        width: 100%;
+    }
+    .Hello{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 100%;
+    }
+    .description{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 100%;
+    }  
+    .photo1{
+        float: inline-start;
+        min-height: 1px;
+        width: 100%;
+        order: 3;
+    }
+    .log{
+        margin-top: 10px;
+        min-height: 1px;
+        width: 100%;
+        background-color: rgb(216, 211, 211);
+    }
+    .log-wrapper{
+        min-height: 1px;
+        width: 90%;
+        margin-left: 5%;
+        background-color: bisque;
+    }
+    .log-message{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        min-height: 1px;
+        width: 100%;
+    }  
+}
 @media (min-width: 320px){
     .header{
         min-height: 1px;
@@ -25,6 +82,13 @@
         min-height: 1px;
         width: 100%;
     }
+    .description{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 100%;
+    }  
     .photo1{
         float: inline-start;
         min-height: 1px;
@@ -76,6 +140,13 @@
         min-height: 1px;
         width: 50%;
     }
+    .description{
+        font-family: 'Comforter Brush', cursive;
+        font-size: 2em;
+        order: 2;
+        min-height: 1px;
+        width: 50%;
+    }   
     .photo1{
         min-height: 1px;
         height: 100%;
@@ -113,22 +184,32 @@
         background-color: bisque;
     }
     .IntroducingMe{
+        margin-bottom: 0.2em;
         font-family: 'Comforter Brush', cursive;
-        font-size: 2em;
+        font-size: 5em;
         order: 1;
         min-height: 1px;
         width: 50%;
     }
     .Hello{
+        margin-top: 0.2em;
         font-family: 'Comforter Brush', cursive;
-        font-size: 2em;
+        font-size: 3em;
+        order: 1;
+        min-height: 1px;
+        width: 50%;
+    }
+    .description{
+        margin-left: 4em;
+        font-family: 'Comforter Brush', cursive;
+        font-size: 3em;
         order: 2;
         min-height: 1px;
         width: 50%;
     }
     .photo1{
         min-height: 1px;
-        width: 50%;
+        width: 100%;
         right: 0;
         order: 3;
     }
