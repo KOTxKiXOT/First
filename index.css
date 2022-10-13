@@ -28,7 +28,7 @@
     width: 60%;
 }
 .coding-log{
-    display:flexbox;
+    display: block;
     margin-top: 10px;
     padding-top: 1px;
     height: 70px;
