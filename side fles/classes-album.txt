@@ -1,0 +1,3 @@
+.year2021{}
+.photo{}
+.video{}
