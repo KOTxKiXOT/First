@@ -21,6 +21,7 @@
     .video{ 
      width: 100%;
     }
+}
 @media (min-width: 500px){
     .year2021{
         display: flex;
