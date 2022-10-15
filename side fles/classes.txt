@@ -1,7 +1,7 @@
     .body{}
     .header{}
     .header-wrapper{}
-    .IntroducingMe{}
+    .Introducing{}
     .Hello{}
     .description{}
     .photo1{}

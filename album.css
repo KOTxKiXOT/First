@@ -1,0 +1,12 @@
+.year2021{
+display: flex;
+width: 100%;
+height: 60%;
+}
+.photo{
+    width: 50%
+  
+}
+.video{
+    width: 50%;;
+}
