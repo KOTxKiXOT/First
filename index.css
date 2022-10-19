@@ -2,16 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 body{
     background-color: black;
-    display:block;
+    display:flex;
     font-family: 'Merienda One', cursive;
 }
 .button {
+    display: block;
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 1%;
     background-color: rgb(49, 57, 77);
     text-decoration: none;
     margin-top: 10px;
+    margin-left: 2%;
     height: 50px;
-    width: 100px;
+    width: 90%;
     color: white;
+    border-radius: 10px;
 }
 
 
