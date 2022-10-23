@@ -1,15 +1,18 @@
 body{
     background-color: rgb(54, 54, 54);
+    align-items: center;
 }
 .year{
     display: flex;
-    width: 100%;
+    padding-top: 10px;
    }
 .photo{
-    width: 50%;
+    width: 47%;
+    padding: 1%;
    }
 .video{ 
-    width: 50%;
+    width: 47%;
+    padding: 1%;
    }
 
 
