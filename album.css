@@ -1,17 +1,20 @@
-@media (min-width: 10px){
-    .year2021{
-    display: block;
-    width: 100%;
-    }
-    .photo{
-    width: 100%;
-    }
-    .video{
-    width: 100%;
-    }
+body{
+    background-color: rgb(54, 54, 54);
 }
-@media (min-width: 320px){
-    .year2021{
+.year{
+    display: flex;
+    width: 100%;
+   }
+.photo{
+    width: 50%;
+   }
+.video{ 
+    width: 50%;
+   }
+
+
+@media (max-width: 500px){
+    .year{
      display: block;
      width: 100%;
     }
@@ -23,27 +26,5 @@
      height: 100%;
     }
 }
-@media (min-width: 500px){
-    .year2021{
-        display: flex;
-        width: 100%;
-       }
-       .photo{
-        width: 50%;
-       }
-       .video{ 
-        width: 50%;
-       }    
-}
-@media (min-width: 1440px){
-    .year2021{
-        display: flex;
-        width: 100%;
-       }
-       .photo{
-        width: 50%;
-       }
-       .video{ 
-        width: 50%;
-       }
-}
+@media (min-width: 500px){}
+@media (min-width: 1440px){}
